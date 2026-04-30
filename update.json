@@ -1,5 +1,5 @@
 {
-      "versao": "3.0.2",
-      "changelog": "- Sistema de atualizacao automatica via GitHub\n- Card Point Cleaner Master na identificacao do aparelho\n- Botoes com tema dourado cromado\n- KG Status com badge colorido (COMPLETED / LOCKED / PRENORMAL)\n- Icone de celular estilizado\n- Desinstalacao automatica da versao anterior",
-      "download_url": "https://github.com/franze2812/ultimate-cleaner-/releases/download/v3.0.2/UltimateCleaner_Setup_v3.0.1.exe"
+        "versao": "3.0.2",
+        "changelog": "- Sistema de atualizacao automatica via GitHub\n- Card Point Cleaner Master\n- Botoes dourados cromados\n- KG Status com badge colorido\n- Desinstalacao automatica da versao anterior",
+        "download_url": "https://github.com/franze2812/ultimate-cleaner-/releases/download/v3.0.2/UltimateCleaner_Setup_v3.0.2.exe"
 }
