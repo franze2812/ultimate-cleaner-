@@ -1,5 +1,5 @@
 {
-            "versao": "3.0.3",
-            "changelog": "- Corrigido: ADB nao encontrado apos instalacao\n- Corrigido: Janelas CMD no Samsung Download\n- Corrigido: Travamento ao desinstalar apps\n- Corrigido: Erro Unicode cp1252 com ADB\n- Corrigido: Status Conectado nao atualizava\n- Novo: Interface App com Anuncio redesenhada\n- Novo: Samsung Recovery com fallback sideload",
-            "download_url": "https://github.com/franze2812/ultimate-cleaner-/releases/download/v3.0.3/UltimateCleaner_Setup_v3.0.3.exe"
+              "versao": "3.0.4",
+              "changelog": "- Corrigido: App com Anuncio em Tela sem lista e botoes\n- Corrigido: Popup do ADB ao abrir o programa\n- Auditoria completa das chamadas ADB",
+              "download_url": "https://github.com/franze2812/ultimate-cleaner-/releases/download/v3.0.4/UltimateCleaner_Setup_v3.0.4.exe"
 }
