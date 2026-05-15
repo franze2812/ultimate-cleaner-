@@ -1,5 +1,5 @@
 {
-              "versao": "3.0.4",
-              "changelog": "- Corrigido: App com Anuncio em Tela sem lista e botoes\n- Corrigido: Popup do ADB ao abrir o programa\n- Auditoria completa das chamadas ADB",
-              "download_url": "https://github.com/franze2812/ultimate-cleaner-/releases/download/v3.0.4/UltimateCleaner_Setup_v3.0.4.exe"
+    "versao": "3.0.5",
+    "changelog": "- Novo botao Mi Account MTK na aba Ferramentas",
+    "download_url": "https://github.com/franze2812/ultimate-cleaner-/releases/download/v3.0.5/UltimateCleaner_Setup_v3.0.5.exe"
 }
