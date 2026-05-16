@@ -1,5 +1,5 @@
 {
-    "versao": "3.0.5",
-    "changelog": "- Novo botao Mi Account MTK na aba Ferramentas",
-    "download_url": "https://github.com/franze2812/ultimate-cleaner-/releases/download/v3.0.5/UltimateCleaner_Setup_v3.0.5.exe"
+    "versao": "3.0.6",
+    "changelog": "- Filtro reforcado Seguranca ADB | Detector nome suspeito | [4/8] Detector anuncios em tela | Threshold inteligente | Whitelist expandida",
+    "download_url": "https://github.com/franze2812/ultimate-cleaner-/releases/download/v3.0.6/UltimateCleaner_Setup_v3.0.6.exe"
 }
