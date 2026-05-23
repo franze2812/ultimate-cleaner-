@@ -1,5 +1,5 @@
 {
-    "versao": "3.0.6",
-    "changelog": "- Filtro reforcado Seguranca ADB | Detector nome suspeito | [4/8] Detector anuncios em tela | Threshold inteligente | Whitelist expandida",
-    "download_url": "https://github.com/franze2812/ultimate-cleaner-/releases/download/v3.0.6/UltimateCleaner_Setup_v3.0.6.exe"
+    "versao": "3.0.7",
+    "changelog": "- Bloqueio OTA Realme/OPPO | Limpeza codigo morto | Verificacao ADB aprimorada | Funcao mais leve e estavel",
+    "download_url": "https://github.com/franze2812/ultimate-cleaner-/releases/download/v3.0.7/UltimateCleaner_Setup_v3.0.7.exe"
 }
