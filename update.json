@@ -1,5 +1,5 @@
 {
-    "versao": "3.0.8",
-    "changelog": "- FRP Bypass via ADB | Seguranca ADB corrigida | Patch Protection 1 corrigido",
-    "download_url": "https://github.com/franze2812/ultimate-cleaner-/releases/download/v3.0.8/UltimateCleaner_Setup_v3.0.8.exe"
+    "versao": "3.0.9",
+    "changelog": "- FRP Bypass aprimorado: suporte a recovery/sideload, log amigavel | Conflito ADB/MOBILedit resolvido | Status ADB via socket sem polling invasivo",
+    "download_url": "https://github.com/franze2812/ultimate-cleaner-/releases/download/v3.0.9/UltimateCleaner_Setup_v3.0.9.exe"
 }
